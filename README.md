@@ -1,6 +1,6 @@
 # Excel-Projects
 This repository contains my work in Microsoft Excel
-1. [Coronavirus Dashboard](https://github.com/nemesio84/Excel-Projects/blob/master/Excel Dashboards/Covid19 - Dashboard.xlsx)
+1. [Coronavirus Dashboard](https://github.com/acortesm/Excel-Projects/blob/master/Excel Dashboards/Covid19 - Dashboard.xlsx)
 
 Below are the instructions for using dynamic heat map in excel.
 
