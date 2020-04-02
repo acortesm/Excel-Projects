@@ -1,7 +1,7 @@
 # Excel-Projects
 This repository contains my work in Microsoft Excel
 1. [Coronavirus Dashboard](https://github.com/acortesm/Excel-Projects/blob/master/Excel%20Dashboards/Covid19%20-%20Dashboard.xlsx)
-2. [ACMT Add-in](https://github.com/acortesm/Excel-Projects/blob/master/Excel%20Dashboards/Covid19%20-%20Dashboard.xlsx)
+2. [ACMT Add-in](https://github.com/acortesm/Excel-Projects/blob/master/Add-Ins/ACMT%20Add-in.xlam)
 
 Below are the instructions for each project.
 
