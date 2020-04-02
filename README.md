@@ -37,7 +37,6 @@ Below is a list of all the advanced charts and functionalities included in the a
 
 Advance charts:
 ---
-
 1.	Traffic Charts
 2.	Circle Chart
 3.	Gauge Chart
@@ -53,6 +52,15 @@ Advance functionalities:
 2.	Unhide Hidden Sheets: unhide all hidden sheets that do not appear in the Unhide dialog box.
 3.	Unhide All Sheets: unhide all sheets, including the ones in the unhide dialog box
 4.	Protect VBA Code: compiles VBA source code making it much harder to understand. 
+
+How to Use Advance Charts?
+---
+When clicking on the advance chart you want to include in your dashboard/report, it will include both a table with the reference data, and the chart itself. 
+
+In the table, black data correspond to the configuration of the dashboard, and white/blue data with variables information.
+In the Gauge Chart, in case of changing the proportion of each color (Black data), it is necessary to adjust the figure by clicking on the button included in the chart.
+
+As it is a free tool, only one chart of each type can be used in each Excel Sheet. 
 
 Install/Uninstall the add-in:
 ---
